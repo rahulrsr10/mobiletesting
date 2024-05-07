@@ -2,19 +2,19 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-07T16:04:15 IST" name="Default suite" finished-at="2024-05-07T16:04:35 IST" duration-ms="19620">
+  <suite started-at="2024-05-07T17:09:19 IST" name="Default suite" finished-at="2024-05-07T17:09:59 IST" duration-ms="39943">
     <groups>
     </groups>
-    <test started-at="2024-05-07T16:04:15 IST" name="Default test" finished-at="2024-05-07T16:04:35 IST" duration-ms="19620">
+    <test started-at="2024-05-07T17:09:19 IST" name="Default test" finished-at="2024-05-07T17:09:59 IST" duration-ms="39943">
       <class name="rahulrode.TestClass">
-        <test-method is-config="true" signature="startup()[pri:0, instance:rahulrode.TestClass@3a93b025]" started-at="2024-05-07T16:04:15 IST" name="startup" finished-at="2024-05-07T16:04:23 IST" duration-ms="7989" status="PASS">
+        <test-method is-config="true" signature="startup()[pri:0, instance:rahulrode.TestClass@7e07db1f]" started-at="2024-05-07T17:09:19 IST" name="startup" finished-at="2024-05-07T17:09:27 IST" duration-ms="8265" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startup -->
-        <test-method signature="demo()[pri:0, instance:rahulrode.TestClass@3a93b025]" started-at="2024-05-07T16:04:23 IST" name="demo" finished-at="2024-05-07T16:04:35 IST" duration-ms="11591" status="PASS">
+        <test-method signature="testAllElements()[pri:0, instance:rahulrode.TestClass@7e07db1f]" started-at="2024-05-07T17:09:27 IST" name="testAllElements" finished-at="2024-05-07T17:09:59 IST" duration-ms="31641" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- demo -->
+        </test-method> <!-- testAllElements -->
       </class> <!-- rahulrode.TestClass -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
